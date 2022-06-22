@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "GFDsurv"]
+	path = GFDsurv
+	url = https://github.com/philippsteinhauer/gfdsurv
+	shallow = true
+	registered = true
